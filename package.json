@@ -1,0 +1,20 @@
+{
+  "name": "islucky",
+  "version": "1.0.0",
+  "description": "Ticket numbers usually consist of an even number of digits. A ticket number is considered _lucky_ if the sum of the first half of the digits is equal to the sum of the second half.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeferson-franco/isLucky.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeferson-franco/isLucky/issues"
+  },
+  "homepage": "https://github.com/jeferson-franco/isLucky#readme"
+}
